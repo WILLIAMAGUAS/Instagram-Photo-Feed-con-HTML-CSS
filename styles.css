@@ -38,3 +38,7 @@ div.container{
     width: 500px;
     margin: auto;
 }
+.post-heder{display: flex;
+    align-items: center;
+    justify-content: space-between;}
+.fecha{margin-right: 10px;}
